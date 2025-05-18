@@ -1,4 +1,4 @@
-# Shopify - a simple eCommerce app
+# ShwenBuy- a simple eCommerce app
 
 Welcome to my E-commerce App! This project is a dummy e-commerce application built using React, Tailwind CSS, Vite, TypeScript, and Redux Toolkit. It aims to showcase various features commonly found in e-commerce platforms, including a homepage, product listing page, cart functionality, and user-authenticated pages like account and wishlist.
 
@@ -34,19 +34,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Create a new branch (`git checkout -b feature/your-feature-name`).
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Since this is a frontend only project, all the data have been collected from [DummyJSON](https://dummyjson.com/).
-- Special thanks to [Tailwind Labs](https://tailwindcss.com/) and [Redux Toolkit](https://redux-toolkit.js.org/) for their amazing tools and documentation.
-
-## Contact
-
-For any inquiries or feedback, feel free to contact [me](mailto:alim1496@gmail.com).
+5. Open a pull request
 
 Happy coding! 🚀
